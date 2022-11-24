@@ -6,6 +6,8 @@
 3. 2번 과정 완료 후 make 명령어 실행
 4. build 디렉토리 내에 실행파일 생성 완료
 
+
+
 #### model_pt 디렉토리를 생성하여 각 모델의 pt파일을 넣어줘야 정상적인 실행 가능
 #### - 각 DNN 모델의 version  (model pt파일의 파일 명) 
 - alexnet       (alexnet_model.pt)
